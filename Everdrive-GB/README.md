@@ -1,4 +1,4 @@
-# EverdriveFont
+# Everdrive-GB Fonts
 These are intended for OS v1.05. I have no idea if they'll work with others, but if that goes wrong don't say I didn't warn you.
 
 ## Fonts
